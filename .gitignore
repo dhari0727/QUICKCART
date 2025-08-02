@@ -1,0 +1,18 @@
+# Django stuff:
+*.pyc
+__pycache__/
+db.sqlite3
+.env
+*.log
+
+# OS/System files:
+.DS_Store
+Thumbs.db
+
+# Virtual environments:
+venv/
+env/
+
+# IDE/editor folders:
+.vscode/
+.idea/
